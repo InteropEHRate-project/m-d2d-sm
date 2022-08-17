@@ -1,4 +1,9 @@
-package eu.ubitech.sehra.securitylibrary;
+/*
+ * Author: UBITECH
+ * Project: InteropEHRate - www.interopehrate.eu
+ * Description: Consent API
+ */
+package eu.interopehrate.md2dsm.api;
 
 import android.content.Context;
 import android.content.SharedPreferences;

@@ -1,4 +1,4 @@
-package eu.ubitech.sehra.s_ehr_a;
+package eu.interopehrate.md2dsm.s_ehr_a;
 
 import org.junit.Test;
 

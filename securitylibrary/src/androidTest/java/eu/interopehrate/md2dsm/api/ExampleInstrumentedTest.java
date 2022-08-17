@@ -1,4 +1,4 @@
-package eu.ubitech.sehra.securitylibrary;
+package eu.interopehrate.md2dsm.api;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

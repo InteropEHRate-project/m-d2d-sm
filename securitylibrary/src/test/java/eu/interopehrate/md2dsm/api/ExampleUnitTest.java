@@ -1,4 +1,4 @@
-package eu.ubitech.sehra.securitylibrary;
+package eu.interopehrate.md2dsm.api;
 
 import org.junit.Test;
 
